@@ -1,0 +1,7 @@
+bases:
+  - ../manifests
+
+namePrefix: myprefix-
+
+commonLabels:
+  legend: killer
