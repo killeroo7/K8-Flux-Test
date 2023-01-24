@@ -1,5 +1,5 @@
-bases:
-  - ../manifests
+resources:
+  - sample-cm.yaml
 
 namePrefix: myprefix-
 
